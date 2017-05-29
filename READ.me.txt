@@ -1,0 +1,22 @@
+ 1. qwertyuiop+SP+FCE365TV.ipa
+
+iDevices Compatible                     Version from iOS 10 to 10.2
+
+ALL 64 bits
+
+
+
+
+
+
+2. mach_portal & SpaccaProject.ipa
+
+iDevices Compatible                     Version from iOS 10 to 10.1.1
+
+ALL 64 bits  (iPhone 7 optimized and fixed by qwertyuiop)
+
+
+
+
+
+Twitter: @SpaccaProject @qwertyuiopz
